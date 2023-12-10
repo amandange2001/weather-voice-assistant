@@ -22,7 +22,7 @@ def speak_weather_data(city, weather, temperature):
         print(f"Error during speech synthesis: {e}")
 
 def main():
-    api_key = "9007cf4ca14b408e9b1142448230712"  
+    api_key = 'your_api_key_here'  
 
     city = input("Enter the name of the city: ").strip()
     if not city:
