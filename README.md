@@ -41,7 +41,7 @@ Clone the repository to your local machine.
 
 2. Install the required dependencies.
 ```bash
-pip install -r requirements.txt
+pip install win32com.client
 ```
 
 3. Run the script
