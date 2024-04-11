@@ -48,7 +48,7 @@ pip install win32com.client
 ```bash
 python weather_voice_assistant.py
 ```
-4. Follow the on-screen prompts to input the city name and receive the spoken weather report.
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
